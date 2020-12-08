@@ -122,7 +122,7 @@ The main objectives are to understand and apply concepts of multithreading. This
    1. This example presents how to collect information about threads of a process.
    
       1. Follow todo #1 from class Examples. Run the code. 
-      2. How information of threads are extracted? Which process is the owner of these threads? Check the code implemented in class ThreadsList.
+      2. How are information of threads extracted? Which process is the owner of these threads? Check the code implemented in class ThreadsList.
    
    2. This example presents how to create and start multiple threads. Answer the questions below and justify your answers using the code.
    
